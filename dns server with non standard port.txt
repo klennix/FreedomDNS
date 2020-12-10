@@ -1,5 +1,8 @@
-Tiarap
+Tiarap Singapore
 174.138.21.128:5003
+
+Tiarap Japan
+172.104.93.80:5003
 
 Quad9
 9.9.9.9:9953
