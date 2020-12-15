@@ -1,2 +1,2 @@
-min-api.cryptocompare.co
+min-api.cryptocompare.com
 bit.ly/undian33-2020
